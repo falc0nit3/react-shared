@@ -1,1 +1,0 @@
-export DisplayData from "./DisplayData";
